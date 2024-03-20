@@ -13,7 +13,9 @@ For help getting started with Flutter, view our
 https://flutter.dev/docs, which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-## Getting Started: FlutLab - Flutter Online IDE
+## Diseño Actividad 1: FlutLab - Flutter Online IDE
+- Link de referencia: https://docs.google.com/document/d/1ciO0KQP0Y__rkYmNhqPuuQHogVHO6Z-IDSkhBva-P6U/edit
 
-- How to use FlutLab? Please, view our https://flutlab.io/docs
-- Join the discussion and conversation on https://flutlab.io/residents
+## Mi diseño 
+![image](https://github.com/MendozaSS128/UII-Act1-0386/assets/143743763/17fe7fd0-a9c4-4f11-b991-b920a38bfa95)
+
